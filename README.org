@@ -6,7 +6,7 @@
 
 Use Dark-mode everywhere, but when it comes to wallpapers, Be smart and use Lighter ones.
 
-**  You might want to look at my script [[https://github.com/idlip/d-bin/d-walls][d-walls]]
+**  You might want to look at my script [[https://github.com/idlip/d-bin/blob/kaizoku/bin/d-walls][d-walls]]
 
 Which chooses random wallpaper from given directory and sets it as background wallpaper.
 
