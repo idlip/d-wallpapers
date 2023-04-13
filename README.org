@@ -1,0 +1,19 @@
+#+title: Desktop Wallpapers
+#+author: iDlip
+#+language: English
+
+* Bright wallpapers to light up your room
+
+Use Dark-mode everywhere, but when it comes to wallpapers, Be smart and use Lighter ones.
+
+**  You might want to look at my script [[https://github.com/idlip/d-bin/d-walls][d-walls]]
+
+Which chooses random wallpaper from given directory and sets it as background wallpaper.
+
+You can even make script to loop so it changes random wallpaper every hour or so...
+
+-----
+
+#+begin_center
+Most of the wallpapers are from [[https://wallhaven.cc/][WallHaven]], Reddit, Some are from Distrotube's repo.
+#+end_center
